@@ -1,0 +1,15 @@
+.mainGrid {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    width: 20px;
+    height: 20px;
+    border: solid 1px black;
+}
+
+.buttonsPanel {
+    display: flex;
+    justify-content: center;
+}
